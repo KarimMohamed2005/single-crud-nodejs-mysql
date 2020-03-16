@@ -13,8 +13,8 @@ var mysql = require('mysql'),
     connection = require('express-myconnection'),
     config = {
       host: 'localhost',
-      user: 'root',
-      password: '',
+      user: 'dplyrsql',
+      password: 'dplyr2020',
       port: 3306,
       database: 'nodejs'
     };
